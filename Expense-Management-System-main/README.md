@@ -156,7 +156,7 @@ pytest tests/
 
 ## 👨‍💼 Author
 
-* Name: Punith
+* Name: Punith,Kedharnath reddy
 * Course: GenAI Project
 * Institution: SRM Institute of Science and Technology
 
@@ -174,3 +174,4 @@ Feel free to raise issues or suggest improvements via pull requests.
 * Data is not persisted in CSV or external APIs, just MySQL.
 
 Happy Tracking 💰
+
